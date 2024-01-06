@@ -43,6 +43,6 @@ Distributed under the MIT Open Source license. See [LICENSE](LICENSE.md) for mor
 
 <div align="right">
 
-## Developed by zoebuffer with :hearts:
+<h2>Developed by zoebuffer with :hearts:</h2>
 
 </div>
