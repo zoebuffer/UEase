@@ -1,0 +1,21 @@
+{
+  "name": "dev.zoebuffer.uease",
+  "version": "1.0.0",
+  "displayName": "Udon Easing Functions",
+  "description": "A collection of easing functions made for use with Udon.",
+  "unity": "2019.4",
+  "unityRelease": "0b4",
+  "documentationUrl": "See DOCUMENTATION.md",
+  "changelogUrl": "See CHANGELOG.md",
+  "licensesUrl": "See LICENSE.md",
+  "keywords": [
+    "Utility",
+    "Tool"
+  ],
+  "author": {
+    "name": "zoebuffer",
+    "email": "",
+    "url": "https://github.com/zoebuffer"
+  },
+  "type": "library"
+}
