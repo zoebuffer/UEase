@@ -2,6 +2,7 @@
 
 ## Table of Contents
 * [About](#about)
+* [Demo](#demo)
 * [Installation](#installation)
 * [Examples](#examples)
 * [Documentation](#documentation)
@@ -10,6 +11,12 @@
 
 ## About 
 A collection of easing functions made for use with Udon. Allows for interpolating values using custom mathematical functions, similar to what you would do using animation curves but via scripting instead.
+
+## Demo
+
+<p align="center">
+  <img src="https://github.com/zoebuffer/UEase/blob/main/Resources~/uease_demo.gif">
+</p>
 
 ## Installation 
 
