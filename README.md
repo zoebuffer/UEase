@@ -1,4 +1,4 @@
-# Udon Eaesing Functions (UEase)
+# Udon Easing Functions (UEase)
 
 ## Table of Contents
 * [About](#about)
