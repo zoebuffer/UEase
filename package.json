@@ -8,6 +8,13 @@
   "documentationUrl": "See DOCUMENTATION.md",
   "changelogUrl": "See CHANGELOG.md",
   "licensesUrl": "See LICENSE.md",
+  "samples": [
+    {
+      "displayName": "Tween Position Example",
+      "description": "Example script for tweening an object's position using easing functions.",
+      "path": "Samples~/TweenPositionsExample"
+    }
+  ],
   "keywords": [
     "Utility",
     "Tool"
